@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: ￐ﾒ￐ﾰ￐ﾴ￐ﾸ￐ﾺ
+Class-Path: org.eclipse.swt.win32.win32.x86_64-4.3.jar sqlite-jdbc-3.2
+ 5.2.jar
+Build-Jdk: 1.8.0_111
+Created-By: Maven Integration for Eclipse
+Main-Class: org.plm.main.Main
+
